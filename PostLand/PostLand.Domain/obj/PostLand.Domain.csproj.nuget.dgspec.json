@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
         "projectName": "PostLand.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

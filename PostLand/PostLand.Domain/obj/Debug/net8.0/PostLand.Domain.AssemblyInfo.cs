@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostLand.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2a80c187c7ffa77c9a7dbe04f4928feaaef4b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61fc1c1a0e8a5402f67f0b2a1b76bad88c58a04d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostLand.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostLand.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

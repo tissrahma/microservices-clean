@@ -4728,11 +4728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
       "projectName": "PostLand.Api",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Api\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4749,14 +4749,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Application\\PostLand.Application.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Application\\PostLand.Application.csproj"
+            "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Application\\PostLand.Application.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Application\\PostLand.Application.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj"
+            "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Persitence\\PostLand.Persitence.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Persitence\\PostLand.Persitence.csproj"
+            "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Persitence\\PostLand.Persitence.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Persitence\\PostLand.Persitence.csproj"
             }
           }
         }

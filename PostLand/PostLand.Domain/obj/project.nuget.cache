@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jbfj760G5yCvbt488LRwgJXItB2IIcnhzyB2vLOCnbIUnPMSkYRuopZA+H4qHkMMpaKTjUKP5g3ts3xslJiwUg==",
+  "dgSpecHash": "52rV9GZH+mregt42uETL+5DNpTrWm45KPiwdlb0qVxk1xDx9aNKenLguNj0e819PMoCtM4Ki75EPeTT3JQtdEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

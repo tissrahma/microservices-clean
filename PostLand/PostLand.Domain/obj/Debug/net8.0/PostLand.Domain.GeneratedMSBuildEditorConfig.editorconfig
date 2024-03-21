@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PostLand.Domain
-build_property.ProjectDir = C:\Users\HP\Desktop\Training\PostLand\PostLand.Domain\
+build_property.ProjectDir = C:\Users\HP\Desktop\microservices+clean\PostLand\PostLand.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -335,11 +335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Application\\PostLand.Application.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Application\\PostLand.Application.csproj",
       "projectName": "PostLand.Application",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Application\\PostLand.Application.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Application\\PostLand.Application.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Application\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -356,8 +356,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj"
+            "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Domain\\PostLand.Domain.csproj"
             }
           }
         }

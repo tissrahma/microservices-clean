@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXvqiq6RsTf4FbzsFM5LjV8dhqBlTzvskfT22UdAkdikyOrypQS2nfEsTj0BL4e39IcZv9mxjfh24UNAxLdDsQ==",
+  "dgSpecHash": "hLNwRDE6zbcJIZAiqdVk26OXQMa2gi2K0+2sXlJeCTq/NIk5Wbuv+KTLQ7QWHGPuJOuYVkvoQmuKPpNDXol6Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\PostLand.Api\\PostLand.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

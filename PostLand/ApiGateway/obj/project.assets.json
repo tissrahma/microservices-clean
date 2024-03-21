@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Training\\PostLand\\ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\microservices+clean\\PostLand\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
